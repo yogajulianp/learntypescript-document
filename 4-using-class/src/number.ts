@@ -1,0 +1,4 @@
+let age: number = 37;
+if (age < 60 )
+    age += 10;
+console.log(age)

@@ -1,0 +1,1 @@
+{"version":3,"file":"creating-generic-type-aliases.js","sourceRoot":"","sources":["../src/creating-generic-type-aliases.ts"],"names":[],"mappings":";AAiBA,MAAM,eAAe,GAAwB;IACzC,KAAK,EAAE;QACH,GAAG,EAAE,oCAAoC;KAE5C;IACD,MAAM,EAAE;QACJ,IAAI,EAAE,MAAM;QACZ,KAAK,EAAE,oBAAoB;QAC3B,GAAG,EAAE,SAAS;KACjB;CACJ,CAAA"}
